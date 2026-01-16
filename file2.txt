@@ -1,3 +1,4 @@
 Menambah file2.txt
 Feature A - Perubahan pada file2
 Feature B - Perubahan pada file2
+Feature rebase - Perubahan pada file2
